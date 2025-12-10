@@ -1,4 +1,4 @@
-# Data Challenge 1
+# CNN for detecting lung conditions on chest X-ray for insurance companies
 
 This work is done by students from TU/e university
 
