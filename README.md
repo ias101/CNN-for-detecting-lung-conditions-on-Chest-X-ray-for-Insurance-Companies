@@ -1,4 +1,4 @@
-# CNN for detecting lung conditions on chest X-ray for insurance companies [Paper](./Final Report)
+# CNN for detecting lung conditions on chest X-ray for insurance companies [Paper](./Final Report.pdf)
 
 This work is done by students from TU/e university
 
